@@ -10,7 +10,7 @@ Case Representation
 The site is live at https://covidcasestrackerbyrahul.netlify.app/
 
 <a target="_blank" href="https://covidcasestrackerbyrahul.netlify.app/">
-          <img src="" width="100%" alt="NASA APOD"/>
+          <img src="https://github.com/rahulkarda/Covid-Cases-Tracker/blob/master/img/covidcasestrackerbyrahul.jpg?raw=true" width="100%" alt="Covid Cases Tracker"/>
 </a>
 <br>
 
