@@ -26,8 +26,8 @@ function updateMap() {
                 // Confirmed cases today
                 cases = element.today.confirmed;
 
-                // Dark color means more cases
-                if (cases < 255) {
+                // Red color means more cases
+                if (cases > 255) {
                     color = "rgb(255, 0, 0)";
                 }
 
